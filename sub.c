@@ -2,4 +2,6 @@
 
 
 void sub(adf)
-{}
+{
+	printf("----");
+}
